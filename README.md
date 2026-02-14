@@ -25,3 +25,4 @@ Simple on-chain poll DApp with 3 voting options on Stacks blockchain.
 2. Install dependencies:
 3. Start the project:
 > Browser opens localhost with the Poll DApp
+2026-02-14 21:03:27 - adjusted validation
