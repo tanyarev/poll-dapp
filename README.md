@@ -27,3 +27,4 @@ Simple on-chain poll DApp with 3 voting options on Stacks blockchain.
 > Browser opens localhost with the Poll DApp
 2026-02-14 21:03:27 - adjusted validation
 2026-02-14 21:04:07 - adjusted validation
+2026-02-14 21:04:21 - added comment
