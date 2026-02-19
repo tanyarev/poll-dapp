@@ -197,3 +197,4 @@ Simple on-chain poll DApp with 3 voting options on Stacks blockchain.
 2026-02-19 15:23:42 - updated poll function
 2026-02-19 15:25:41 - added comment
 2026-02-19 15:26:14 - added comment
+2026-02-19 21:59:28 - added comment
