@@ -286,3 +286,4 @@
 2026-02-26 10:23:54 - updated poll function
 2026-02-26 10:24:29 - updated poll function
 2026-02-26 10:24:38 - updated poll function
+2026-02-26 10:24:46 - adjusted validation
